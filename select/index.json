@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Gravitation",
+  "base_artist": "Maon Kurosaki",
+  "createdAt": "2026-02-18T14:30:52.512789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gravitation Breakdown",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/01_Gravitation_Breakdown_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gravitation",
+      "artist": "Petit Biscuit feat. Møme & Isaac Delusion",
+      "has_synced": true,
+      "path": "select/02_Gravitation_Petit_Biscuit_feat._Møme_&_Isaac_Delusion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gravitation (Feat. Isaac Delusion)",
+      "artist": "Petit Biscuit & Møme",
+      "has_synced": true,
+      "path": "select/03_Gravitation_(Feat._Isaac_Delusion)_Petit_Biscuit_&_Møme.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gravitation",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/04_Gravitation_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gravitation",
+      "artist": "Maon Kurosaki",
+      "has_synced": true,
+      "path": "select/05_Gravitation_Maon_Kurosaki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gravitation Breakdown",
+      "artist": "Alphaville",
+      "has_synced": true,
+      "path": "select/06_Gravitation_Breakdown_Alphaville.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gravitation",
+      "artist": "Petit Biscuit with Møme ft. Isaac Delusion",
+      "has_synced": true,
+      "path": "select/07_Gravitation_Petit_Biscuit_with_Møme_ft._Isaac_Delusion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gravitation",
+      "artist": "Angela",
+      "has_synced": true,
+      "path": "select/08_Gravitation_Angela.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "gravitation (off vocal version)",
+      "artist": "angela",
+      "has_synced": true,
+      "path": "select/09_gravitation_(off_vocal_version)_angela.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gravitation",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/10_Gravitation_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gravitation",
+      "artist": "kent",
+      "has_synced": true,
+      "path": "select/11_Gravitation_kent.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gravitation",
+      "artist": "ONEUS",
+      "has_synced": true,
+      "path": "select/12_Gravitation_ONEUS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gravitation",
+      "artist": "Bushido feat. Shindy & Marteria",
+      "has_synced": false,
+      "path": "select/13_Gravitation_Bushido_feat._Shindy_&_Marteria.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gravitation",
+      "artist": "Bushido",
+      "has_synced": true,
+      "path": "select/14_Gravitation_Bushido.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gravitation",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_01_Gravitation_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Gravitation",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_02_Gravitation_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Gravitation",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_03_Gravitation_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Gravitation",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_04_Gravitation_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Gravitation",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_05_Gravitation_黒崎真音.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Gravitation",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/pl_06_Gravitation_黒崎真音.txt"
+    }
+  ]
+}
